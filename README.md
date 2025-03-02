@@ -1,6 +1,6 @@
-# 👋 Hi, I'm Ahmet Şengöl
+# 👋 Hi, I'm Ahmet Mert Şengöl
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=54A6FF&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub+Profile;Software+Developer;Always+Learning+New+Things" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=54A6FF&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub+Profile+♥;Software+Developer;Always+Learning+New+Things" alt="Typing SVG" />
 </div>
 
 ## 🚀 About Me
