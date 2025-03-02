@@ -26,13 +26,12 @@ Here are some of my notable projects:
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=ahmertsengol&show_icons=true&theme=radical)
 
 ## 🤝 Let's Connect
-- LinkedIn: [Your LinkedIn]
-- Twitter: [Your Twitter]
-- Portfolio: [Your Portfolio]
+- [LinkedIn](www.linkedin.com/in/ahmertsengol)
+- [Twitter](https://x.com/ahmertsengol)
+- [Portfolio]()
 
 ## 📫 How to Reach Me
-- 📧 Email: [Your Email]
-- 💬 Discord: [Your Discord]
-
+- 📧 Email: [21sandn21@gmail.com](21sandn21@gmail.com)
+- 🌟 Linkedin :
 ---
 ⭐️ From [ahmertsengol](https://github.com/ahmertsengol) 
