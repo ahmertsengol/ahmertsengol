@@ -19,13 +19,13 @@
  </div>
 
 <div align="center"> 
-  <a href="mailto:[YOUR_EMAIL]">
+  <a href="mailto:[21sandn21@gmail.com]">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
-  <a href="[YOUR_LINKEDIN]" target="_blank">
+  <a href="[[YOUR_LINKEDIN](https://www.linkedin.com/in/ahmertsengol/)]" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="[YOUR_PORTFOLIO]" target="_blank">
+  <a href="[MyPortfolio](https://github.com/ahmertsengol/MyPortfolio)" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" />
   </a>
 </div>
@@ -69,14 +69,6 @@
 <h3 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+✌️;Send+me+a+message+on+LinkedIn!;I'm+always+down+to+collab+:)">
 </h3>
-
-<br/>
-
-<div align="center">
-<a href='https://ko-fi.com/[YOUR_KOFI]' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
-</div>
-
-<br/>
 
 #
 
