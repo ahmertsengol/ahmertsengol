@@ -1,38 +1,77 @@
-# 👋 Hi, I'm Ahmet Şengöl
+![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/79731568097599.5b50bca477735.jpg)
 
-## 🚀 About Me
-I am a passionate software developer who loves to create and innovate. My journey in software development is driven by curiosity and a desire to make a positive impact through technology.
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Ahmet+Mert+Şengöl!;" />
+</h1>
 
-## 🛠️ Skills & Technologies
-- **Languages:** JavaScript, Python, Java
-- **Frontend:** React.js, HTML5, CSS3
-- **Backend:** Node.js, Express.js
-- **Database:** MongoDB, MySQL
-- **Tools:** Git, VS Code, Docker
-- **Other:** RESTful APIs, Agile Methodologies
+<h3 align="center">A Passionate Software Developer from Turkey 🚀</h3>
 
-## 🌱 Currently Learning
-- Advanced React Patterns
-- Cloud Technologies (AWS)
-- System Design & Architecture
+<br/>
 
-## 💼 Projects
-Here are some of my notable projects:
-- 🌟 [Project 1] - Brief description
-- 🚀 [Project 2] - Brief description
-- 💻 [Project 3] - Brief description
+<div align="center">
+ 
+ 🔭 I'm currently working on **Web Development**
+ 
+ 🌱 I'm currently learning **React.js, Node.js and AWS**
 
-## 📊 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=ahmertsengol&show_icons=true&theme=radical)
+ 💬 Ask me about **JavaScript, React, Node.js... or anything [here](https://github.com/ahmertsengol/ahmertsengol/issues)**
 
-## 🤝 Let's Connect
-- LinkedIn: [Your LinkedIn]
-- Twitter: [Your Twitter]
-- Portfolio: [Your Portfolio]
+ </div>
 
-## 📫 How to Reach Me
-- 📧 Email: [Your Email]
-- 💬 Discord: [Your Discord]
+<div align="center"> 
+  <a href="mailto:[21sandn21@gmail.com]">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="[[YOUR_LINKEDIN](https://www.linkedin.com/in/ahmertsengol/)]" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="[MyPortfolio](https://github.com/ahmertsengol/MyPortfolio)" target="_blank">
+     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" />
+  </a>
+</div>
 
----
-⭐️ From [ahmertsengol](https://github.com/ahmertsengol) 
+ <hr/>
+ 
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=javascript,typescript,react,nodejs,python,java" /><br>
+    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,mongodb,mysql,docker" /><br>
+    <img src="https://skillicons.dev/icons?i=vscode,github,git,aws,postman,figma" />
+</div>
+
+
+
+
+<hr/>
+
+<h2 align="center">⚡ Stats ⚡</h2>
+<br>
+<div align=center>
+  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=ahmertsengol&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=ahmertsengol&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <br/>
+  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=ahmertsengol&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+</div>
+
+<br/><br/>
+
+<hr/>
+
+<h3 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+✌️;Send+me+a+message+on+LinkedIn!;I'm+always+down+to+collab+:)">
+</h3>
+
+#
+
+<div align="center">
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
+</div>
+
+#
+
+<div align="center">
+<img src="https://profile-counter.glitch.me/ahmertsengol/count.svg" alt="Visitor Count"/>
+</div>
+
+⭐️ From [ahmertsengol](https://github.com/ahmertsengol) with ❤️ 
