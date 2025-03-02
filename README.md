@@ -7,7 +7,7 @@
 I am a passionate software developer who loves to create and innovate. My journey in software development is driven by curiosity and a desire to make a positive impact through technology.
 
 ## 🛠️ Skills & Technologies
-- **Languages:** JavaScript, Python, Java,C#
+- **Languages:** JavaScript, Python, Java, C#
 - **Frontend:** React.js, HTML5, CSS3
 - **Backend:** Node.js, Express.js
 - **Database:** MongoDB, MySQL
