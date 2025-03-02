@@ -1,4 +1,7 @@
 # 👋 Hi, I'm Ahmet Şengöl
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=54A6FF&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub+Profile;Software+Developer;Always+Learning+New+Things" alt="Typing SVG" />
+</div>
 
 ## 🚀 About Me
 I am a passionate software developer who loves to create and innovate. My journey in software development is driven by curiosity and a desire to make a positive impact through technology.
