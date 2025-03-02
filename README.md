@@ -34,7 +34,7 @@ Here are some of my notable projects:
 - [Portfolio](https://github.com/ahmertsengol/MyPortfolio)
 
 ## 📫 How to Reach Me
-- 📧 [Email: 21sandn21@gmail.com](21sandn21@gmail.com)
-- 🌟[LinkedIn : ahmertsengol](www.linkedin.com/in/ahmertsengol/)
+- 📧 Email: [21sandn21@gmail.com](21sandn21@gmail.com)
+- 🌟LinkedIn : [ahmertsengol](www.linkedin.com/in/ahmertsengol/)
 ---
 ⭐️ From [ahmertsengol](https://github.com/ahmertsengol) 
