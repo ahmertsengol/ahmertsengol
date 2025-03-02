@@ -31,10 +31,10 @@ Here are some of my notable projects:
 ## 🤝 Let's Connect
 - [LinkedIn](www.linkedin.com/in/ahmertsengol/)
 - [Twitter](https://x.com/ahmertsengol)
-- [Portfolio]()
+- [Portfolio](https://github.com/ahmertsengol/MyPortfolio)
 
 ## 📫 How to Reach Me
-- 📧 Email: [21sandn21@gmail.com](21sandn21@gmail.com)
-- 🌟 Linkedin :
+- 📧 [Email: 21sandn21@gmail.com](21sandn21@gmail.com)
+- 🌟[LinkedIn : ahmertsengol](www.linkedin.com/in/ahmertsengol/)
 ---
 ⭐️ From [ahmertsengol](https://github.com/ahmertsengol) 
