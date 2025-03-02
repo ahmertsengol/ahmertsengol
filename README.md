@@ -26,7 +26,7 @@ Here are some of my notable projects:
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=ahmertsengol&show_icons=true&theme=radical)
 
 ## 🤝 Let's Connect
-- [LinkedIn](www.linkedin.com/in/ahmertsengol)
+- [LinkedIn](www.linkedin.com/in/ahmertsengol/)
 - [Twitter](https://x.com/ahmertsengol)
 - [Portfolio]()
 
