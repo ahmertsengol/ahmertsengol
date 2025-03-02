@@ -18,7 +18,7 @@ I am a passionate software developer who loves to create and innovate. My journe
 
 ## 💼 Projects
 Here are some of my notable projects:
-- 🌟 [Project 1] - Brief description
+- 🌟 [Yolai](https://github.com/ahmertsengol/yolai) - Brief description
 - 🚀 [Project 2] - Brief description
 - 💻 [Project 3] - Brief description
 
