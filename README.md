@@ -1,40 +1,93 @@
-# 👋 Hi, I'm Ahmet Mert Şengöl
+![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/79731568097599.5b50bca477735.jpg)
+
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Ahmet+Şengöl!;" />
+</h1>
+
+<h3 align="center">A Passionate Software Developer from Turkey 🚀</h3>
+
+<br/>
+
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=54A6FF&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub+Profile+♥;Software+Developer;Always+Learning+New+Things" alt="Typing SVG" />
+ 
+ 🔭 I'm currently working on **Web Development**
+ 
+ 🌱 I'm currently learning **React.js, Node.js and AWS**
+
+ 💬 Ask me about **JavaScript, React, Node.js... or anything [here](https://github.com/ahmertsengol/ahmertsengol/issues)**
+
+ </div>
+
+<div align="center"> 
+  <a href="mailto:[YOUR_EMAIL]">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="[YOUR_LINKEDIN]" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="[YOUR_PORTFOLIO]" target="_blank">
+     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" />
+  </a>
 </div>
 
-## 🚀 About Me
-I am a passionate software developer who loves to create and innovate. My journey in software development is driven by curiosity and a desire to make a positive impact through technology.
+ <hr/>
+ 
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=javascript,typescript,react,nodejs,python,java" /><br>
+    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,mongodb,mysql,docker" /><br>
+    <img src="https://skillicons.dev/icons?i=vscode,github,git,aws,postman,figma" />
+</div>
 
-## 🛠️ Skills & Technologies
-- **Languages:** JavaScript, Python, Java, C#
-- **Frontend:** React.js, HTML5, CSS3
-- **Backend:** Node.js, Express.js
-- **Database:** MongoDB, MySQL
-- **Tools:** Git, VS Code, Docker
-- **Other:** RESTful APIs, Agile Methodologies
+<br/>
+<hr/>
 
-## 🌱 Currently Learning
-- Advanced React Patterns
-- Cloud Technologies (AWS)
-- System Design & Architecture
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
+  
+  <br/><br/><br/>
+</div>
 
-## 💼 Projects
-Here are some of my notable projects:
-- 🌟 [Yolai](https://github.com/ahmertsengol/yolai)
-- 🚀 [Lazzaran](https://github.com/ahmertsengol/Lazzaran)
-- 💻 [smart-traffic-ai](https://github.com/ahmertsengol/smart-traffic-ai)
+<hr/>
 
-## 📊 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=ahmertsengol&show_icons=true&theme=radical)
+<h2 align="center">⚡ Stats ⚡</h2>
+<br>
+<div align=center>
+  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=ahmertsengol&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=ahmertsengol&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <br/>
+  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=ahmertsengol&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+</div>
 
-## 🤝 Let's Connect
-- [LinkedIn](www.linkedin.com/in/ahmertsengol/)
-- [Twitter](https://x.com/ahmertsengol)
-- [Portfolio](https://github.com/ahmertsengol/MyPortfolio)
+<br/><br/>
 
-## 📫 How to Reach Me
-- 📧 Email: [21sandn21@gmail.com](21sandn21@gmail.com)
-- 🌟LinkedIn : [ahmertsengol](www.linkedin.com/in/ahmertsengol/)
----
-⭐️ From [ahmertsengol](https://github.com/ahmertsengol) 
+<hr/>
+
+<h3 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+✌️;Send+me+a+message+on+LinkedIn!;I'm+always+down+to+collab+:)">
+</h3>
+
+<br/>
+
+<div align="center">
+<a href='https://ko-fi.com/[YOUR_KOFI]' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
+</div>
+
+<br/>
+
+#
+
+<div align="center">
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
+</div>
+
+#
+
+<div align="center">
+<img src="https://profile-counter.glitch.me/ahmertsengol/count.svg" alt="Visitor Count"/>
+</div>
+
+⭐️ From [ahmertsengol](https://github.com/ahmertsengol) with ❤️ 
