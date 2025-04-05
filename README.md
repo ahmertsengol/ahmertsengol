@@ -22,9 +22,10 @@
   <a href="mailto:[21sandn21@gmail.com]">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
-  <a href="[https://www.linkedin.com/in/ahmertsengol](https://www.linkedin.com/in/ahmertsengol/)" target="https://www.linkedin.com/in/ahmertsengol">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
+  <a href="https://www.linkedin.com/in/ahmertsengol" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
   <a href="[MyPortfolio](https://github.com/ahmertsengol/MyPortfolio)" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" />
   </a>
