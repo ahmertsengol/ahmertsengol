@@ -32,8 +32,8 @@
 ## GitHub Stats
 
 <div align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ahmertsengol&show_icons=true&theme=default&count_private=true&hide_border=true&bg_color=ffffff&title_color=2C3E50&text_color=2C3E50&icon_color=34495E" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmertsengol&layout=compact&theme=default&hide_border=true&bg_color=ffffff&title_color=2C3E50&text_color=2C3E50" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ahmertsengol&show_icons=true&theme=dark&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmertsengol&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" />
 </div>
 
 ---
@@ -42,10 +42,10 @@
 
 <div align="center">
   <a href="https://github.com/ahmertsengol/face-auth-opencv">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ahmertsengol&repo=face-auth-opencv&theme=default&hide_border=true&bg_color=ffffff&title_color=2C3E50&text_color=2C3E50&icon_color=34495E" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ahmertsengol&repo=face-auth-opencv&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff" />
   </a>
   <a href="https://github.com/ahmertsengol/yolai">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ahmertsengol&repo=yolai&theme=default&hide_border=true&bg_color=ffffff&title_color=2C3E50&text_color=2C3E50&icon_color=34495E" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ahmertsengol&repo=yolai&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff" />
   </a>
 </div>
 
