@@ -19,7 +19,6 @@
   <img src="https://skillicons.dev/icons?i=swift,mongodb,postgresql,docker,aws,git&theme=light" />
   <br /><br />
   <img src="https://img.shields.io/badge/React%20Native-61DAFB?style=flat&logo=react&logoColor=white" />
-  <img src="https://img.shields.io/badge/Cursor%20IDE-000000?style=flat&logo=cursor&logoColor=white" />
   <img src="https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white" />
 </div>
 
