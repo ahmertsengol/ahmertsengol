@@ -3,7 +3,7 @@
   
   <h1>Ahmet Mert Şengöl</h1>
   <div>
-    <img src="https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&size=24&duration=2500&pause=1000&color=2C3E50&center=true&vCenter=true&width=600&lines=Senior+Full+Stack+Developer;AI+%26+Machine+Learning+Engineer;Building+Intelligent+Web+Applications;React+%7C+Python+%7C+AI/ML+Expert" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&size=24&duration=2500&pause=1000&color=2C3E50&center=true&vCenter=true&width=600&lines=Junior+Full+Stack+Developer;AI+%26+Machine+Learning+Engineer;Building+Intelligent+Web+Applications;React+%7C+Python+%7C+AI/ML+Expert" />
   </div>
   <p>🎓 Software Engineering • 📍 Turkey • 🌍 Remote • 🤖 AI Enthusiast</p>
   
