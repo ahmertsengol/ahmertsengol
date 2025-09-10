@@ -10,7 +10,7 @@
   <img src="https://komarev.com/ghpvc/?username=ahmertsengol&color=2C3E50&style=flat" />
   <img src="https://img.shields.io/badge/Available%20for-Hire-brightgreen" />
   <br />
-  <a href=" https://www.buymeacoffee.com/21sandn21q " target="_blank"><img src=" https://cdn.buymeacoffee.com/buttons/v2/default-red.png " alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
+  <a href="https://www.buymeacoffee.com/21sandn21q" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-green.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
 </div>
 
 
