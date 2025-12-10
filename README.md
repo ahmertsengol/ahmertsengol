@@ -1,8 +1,7 @@
-# 💫 About Me:
-
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=00CDE0&center=true&vCenter=true&width=650&lines=Mert+Şengöl+-+Full+Stack+Developer;AI+Engineer+%7C+ML+Systems+Builder;Creating+AI-powered+Web+Platforms;Building+Scalable+%26+Intelligent+Systems" />
   
+# 💫 About Me:  
 Hi, I'm Ahmet Mert — Full Stack Developer & AI Engineer from Turkey.
 I build scalable web applications, AI-driven systems, and modern cloud-native architectures.
 
